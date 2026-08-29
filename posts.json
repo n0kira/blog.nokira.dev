@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "first-post",
+    "title": "Hello World!",
+    "date": "2026-08-29",
+    "description": "This is my blog! 哇！",
+    "file": "posts/first-post.md"
+  }
+]
