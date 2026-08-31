@@ -5,5 +5,12 @@
     "date": "2026-08-29",
     "description": "This is my blog! 哇！",
     "file": "posts/first-post.md"
+  },
+  {
+    "slug": "second-post",
+    "title": "GTWC Endurance Championship!",
+    "date": "2026-08-31",
+    "description": "Yesterday my favorite team of the GTWC won the Endurance championship!!<br>I'm so happy :)",
+    "file": "posts/second-post.md"
   }
 ]
