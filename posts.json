@@ -19,5 +19,12 @@
     "date": "2026-09-01",
     "description": "This is for anyone who was curious about my username!",
     "file": "posts/third-post.md"
+  },
+  {
+    "slug": "fourth-post",
+    "title": "My thoughts about AI",
+    "date": "2026-09-10",
+    "description": "Sharing my opinion on AI usage",
+    "file": "posts/fourth-post.md"
   }
 ]
